@@ -1,0 +1,42 @@
+{
+    "000000": {
+        "pdf_name": "4219_201801_Bestemmelser_Solstad_221027",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/evjeoghornnes4219/arealplaner/142?planTypeId=35"
+    },
+    "000001": {
+        "pdf_name": "4219_202102_Rp_Stoperi_Bestemmelser_22-06-16",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/evjeoghornnes4219/arealplaner/148?planTypeId=35"
+    },
+    "000002": {
+        "pdf_name": "EH_detaljregulering_for_kjetså_massetak",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/evjeoghornnes4219/arealplaner/149?planTypeId=35"
+    },
+    "000003": {
+        "pdf_name": "170820-bestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/evjeoghornnes4219/arealplaner/133?planTypeId=35"
+    },
+    "000004": {
+        "pdf_name": "201501-gjeldende-bestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/evjeoghornnes4219/arealplaner/135?planTypeId=35"
+    },
+    "000005": {
+        "pdf_name": "1587 Reguleringsbestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/kristiansand4204/arealplaner/612?planTypeId=35"
+    },
+    "000006": {
+        "pdf_name": "1507 Reguleringsbestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/kristiansand4204/arealplaner/534?planTypeId=35"
+    },
+    "000007": {
+        "pdf_name": "1570 Reguleringsbestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/kristiansand4204/arealplaner/597?planTypeId=35"
+    }
+}
