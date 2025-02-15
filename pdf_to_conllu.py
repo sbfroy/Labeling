@@ -55,7 +55,7 @@ def to_conllu(sentences):
 
 def main():
 
-    # The spacy model
+    # The spacy model (seems reasonable concerning acc and f1)
     nlp = spacy.load('nb_core_news_md')
 
     pdf = '000000'
