@@ -64,7 +64,7 @@ def main():
     sentences = process_text_with_spacy(pdf_text, nlp)
     conllu_data = to_conllu(sentences)
 
-    with open(f'data/conllus/{pdf}.conllu', 'w', encoding='utf-8') as f:
+    with open(f'data/raw_conllus/{pdf}.conllu', 'w', encoding='utf-8') as f:
         f.write(conllu_data)
         print('Done!')
 
