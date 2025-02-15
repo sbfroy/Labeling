@@ -20,4 +20,4 @@ def merge_conllus(folder_path, output_file):
         f.write(merged_content)
 
 if __name__ == '__main__':
-    merge_conllus('data/conllus', 'all_regplans.conllu')
+    merge_conllus('data/conllus', 'data/all_regplans.conllu')

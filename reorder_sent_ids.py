@@ -49,6 +49,6 @@ def reorder_sent_ids(input_file, output_file):
 
 if __name__ == '__main__':
 
-    input_file = 'data/all_regplans_test.conllu'             
-    output_file = f'data/all_regplans_test.conllu'     
+    input_file = 'data/all_regplans.conllu'             
+    output_file = 'data/all_regplans.conllu'     
     reorder_sent_ids(input_file, output_file)
