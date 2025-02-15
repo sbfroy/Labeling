@@ -58,7 +58,7 @@ def main():
     # The spacy model
     nlp = spacy.load('nb_core_news_md')
 
-    pdf = '000001'
+    pdf = '000000'
 
     pdf_text = get_text(f'data/pdfs/{pdf}.pdf')
     sentences = process_text_with_spacy(pdf_text, nlp)
