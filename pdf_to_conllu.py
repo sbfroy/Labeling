@@ -58,13 +58,13 @@ def main():
     # The spacy model (seems reasonable concerning acc and f1)
     nlp = spacy.load('nb_core_news_md')
 
-    pdf = '000000'
+    pdf = ''
 
     pdf_text = get_text(f'data/pdfs/{pdf}.pdf')
     sentences = process_text_with_spacy(pdf_text, nlp)
     conllu_data = to_conllu(sentences)
 
-    with open(f'data/raw_conllus/{pdf}.conllu', 'w', encoding='utf-8') as f:
+    with open(f'data/conllus/{pdf}.conllu', 'w', encoding='utf-8') as f:
         f.write(conllu_data)
         print('Done!')
 
