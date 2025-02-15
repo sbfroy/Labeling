@@ -35,8 +35,18 @@
         "url": "https://www.arealplaner.no/kristiansand4204/arealplaner/534?planTypeId=35"
     },
     "000007": {
-        "pdf_name": "1570 Reguleringsbestemmelser",
+        "pdf_name": "Hittun - føresegner",
         "feltsoner": ["ex1", "ex2"],
-        "url": "https://www.arealplaner.no/kristiansand4204/arealplaner/597?planTypeId=35"
-    }
+        "url": "https://www.arealplaner.no/sogndal4640/arealplaner/389?planTypeId=35"
+    },
+    "000008": {
+        "pdf_name": "Granden 25-27 - føresegn vedtatt 06.05.2021",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/sogndal4640/arealplaner/377?planTypeId=35"
+    },
+    "000009": {
+        "pdf_name": "Bestemmelser_Natveitlia detaljregulering - vedtaksdato 22.08.2023",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/birkenes4216/arealplaner/93?planTypeId=35"
+    } 
 }
