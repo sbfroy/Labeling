@@ -48,5 +48,30 @@
         "pdf_name": "Bestemmelser_Natveitlia detaljregulering - vedtaksdato 22.08.2023",
         "feltsoner": ["ex1", "ex2"],
         "url": "https://www.arealplaner.no/birkenes4216/arealplaner/93?planTypeId=35"
-    } 
+    },
+    "000010": {
+        "pdf_name": "Reguleringsbestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/tvedestrand4213/arealplaner/244?planTypeId=35"
+    },
+    "000011": {
+        "pdf_name": "Vedtatte bestemmelser Flauberg K_sak 20_81_08.09",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/tvedestrand4213/arealplaner/229?planTypeId=35"
+    },
+    "000012": {
+        "pdf_name": "Gjeldende bestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/tvedestrand4213/arealplaner/200?planTypeId=35"
+    },
+    "000013": {
+        "pdf_name": "20170830 Iveland gård - Bestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/iveland4218/arealplaner/39?planTypeId=35"
+    },
+    "000014": {
+        "pdf_name": "20100226 Skaiå - Bestemmelser",
+        "feltsoner": ["ex1", "ex2"],
+        "url": "https://www.arealplaner.no/iveland4218/arealplaner/35?planTypeId=35"
+    }
 }
