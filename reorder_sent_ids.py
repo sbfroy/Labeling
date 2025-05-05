@@ -47,8 +47,6 @@ def reorder_sent_ids(input_file, output_file):
         f.write("\n\n".join(new_blocks))
         f.write("\n")
 
-if __name__ == '__main__':
-
-    input_file = 'data/all_regplans.conllu'             
-    output_file = 'data/all_regplans.conllu'     
-    reorder_sent_ids(input_file, output_file)
+input_file = 'data/all_regplans.conllu'             
+output_file = 'data/all_regplans.conllu'     
+reorder_sent_ids(input_file, output_file)

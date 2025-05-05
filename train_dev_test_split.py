@@ -52,15 +52,13 @@ def split_conllu_train_dev_test(input_file, train_file, dev_file, test_file, tra
     print(f"Training set: {len(train_blocks)} sentences")
     print(f"Dev set: {len(dev_blocks)} sentences")
     print(f"Test set: {len(test_blocks)} sentences")
-
-if __name__ == '__main__':
     
-    input_file = 'data/all_regplans.conllu'  
-    train_file = 'data/regplans-train.conllu'  
-    dev_file = 'data/regplans-dev.conllu'  
-    test_file = 'data/regplans-test.conllu'  
+input_file = 'data/all_regplans.conllu'  
+train_file = 'data/regplans-train.conllu'  
+dev_file = 'data/regplans-dev.conllu'  
+test_file = 'data/regplans-test.conllu'  
 
-    train_ratio = 0.7
-    dev_ratio = 0.15
+train_ratio = 0.7
+dev_ratio = 0.15
     
-    split_conllu_train_dev_test(input_file, train_file, dev_file, test_file, train_ratio, dev_ratio)
+split_conllu_train_dev_test(input_file, train_file, dev_file, test_file, train_ratio, dev_ratio)
